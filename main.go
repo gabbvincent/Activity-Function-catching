@@ -1,3 +1,7 @@
+//Name: Vincent G.
+//Date: 4/9/2020
+//Description: Activity|Function catching output
+
 package main
 
 import "fmt"
